@@ -44,7 +44,6 @@
                                             @endcan
                                         </div>
                                     </div>
-
                                     <p class="lead">
                                         Asked by
                                         <a href="{{$question->user->url}}">{{$question->user->name}}</a>
